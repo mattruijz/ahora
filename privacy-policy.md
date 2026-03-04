@@ -5,7 +5,7 @@ title: Privacy Policy — Ahora
 
 # Ahora — Privacy Policy
 
-**Last updated:** February 25, 2026
+**Last updated:** March 4, 2026
 
 Ahora is a Chrome Extension that helps you pause before online purchases. Your privacy is important to us. This policy explains what data Ahora collects, how it is stored, and how you can control it.
 
@@ -15,7 +15,7 @@ Ahora stores the following data **locally on your device** using Chrome's built-
 
 - **Your decisions**: When you interact with the Ahora overlay (decline, postpone, or purchase), we save the website domain, your choice, the estimated cart amount, and a timestamp.
 - **Aggregated stats**: Total amount not spent, number of conscious choices, and your streak of consecutive days.
-- **Your preferences**: Selected theme (Default, Forest, or Calm) and analytics preference.
+- **Your preferences**: Selected theme (Default, Forest, or Calm), analytics preference, and any sites you've chosen to disable Ahora on.
 
 ## Where is the data stored?
 
